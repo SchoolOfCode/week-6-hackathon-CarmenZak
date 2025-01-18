@@ -7,8 +7,8 @@
 
 export function secretNumber(secretArray) {
 
-//insert your code here
-
+     //insert code here
+    
 };
 
 
